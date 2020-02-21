@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : About Us
+  about_Item :
+  - icon : ti-heart # themify icon pack : https://themify.me/themify-icons
+    title : We're Wakeboarders
+    content : Our love for the sport drives us to bring wakeboarding events to the next level
+
+  - icon : ti-desktop
+    title : We're Software Devs
+    content : Our day jobs give us the right skills to develop state of the art tools
+
+  - icon : ti-comments 
+    title : We're Great Listeners
+    content : And given feedback from the community, we're working on some exciting projects
